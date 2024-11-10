@@ -1,1 +1,1 @@
-This is bug file
+:x
